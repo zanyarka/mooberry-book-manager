@@ -374,7 +374,7 @@ msgid ""
 msgstr ""
 
 #: book.php:233
-msgid "Edition"
+msgid "نوسەر"
 msgstr ""
 
 #: book.php:234
@@ -1368,15 +1368,15 @@ msgstr ""
 
 #: mooberry-book-manager.php:362 mooberry-book-manager.php:372
 #: single-book.php:1038
-msgid "Tags"
+msgid "بابەت"
 msgstr ""
 
 #: mooberry-book-manager.php:364
-msgid "Search Tags"
+msgid "بابەتگەڕ"
 msgstr ""
 
 #: mooberry-book-manager.php:365
-msgid "All Tags"
+msgid "بابەتەکان"
 msgstr ""
 
 #: mooberry-book-manager.php:366
@@ -1400,11 +1400,11 @@ msgid "Add New Tag"
 msgstr ""
 
 #: mooberry-book-manager.php:371
-msgid "New Tag Name"
+msgid "ناوی بابەتی نوێ"
 msgstr ""
 
 #: mooberry-book-manager.php:373
-msgid "Popular Tags"
+msgid "بابەتی سەرنجڕاکێش"
 msgstr ""
 
 #: mooberry-book-manager.php:374
@@ -1428,7 +1428,7 @@ msgid "Search Series"
 msgstr ""
 
 #: mooberry-book-manager.php:400
-msgid "All Series"
+msgid "زنجیرە پەرتووکەکان"
 msgstr ""
 
 #: mooberry-book-manager.php:401
@@ -1492,11 +1492,11 @@ msgid "COLLAPSE"
 msgstr ""
 
 #: single-book.php:479
-msgid "Part of the "
+msgid "پەرتوکەکانیتر لە زنجیرەی "
 msgstr ""
 
 #: single-book.php:480
-msgid " series:"
+msgid " :"
 msgstr ""
 
 #: single-book.php:481
@@ -1524,7 +1524,7 @@ msgid "Pages"
 msgstr ""
 
 #: single-book.php:975 single-book.php:1059
-msgid "Download Now:"
+msgid "داگرتنی پەرتووک:"
 msgstr ""
 
 #: single-book.php:981
@@ -1536,7 +1536,7 @@ msgid "series"
 msgstr ""
 
 #: single-book.php:1005
-msgid "Editions"
+msgid "نوسەرەکان"
 msgstr ""
 
 #: single-book.php:1052
@@ -1568,7 +1568,7 @@ msgid "Specific Book"
 msgstr ""
 
 #: views/admin-book-widget.php:36
-msgid "Book:"
+msgid "پەرتوک:"
 msgstr ""
 
 #: views/admin-book-widget.php:46
